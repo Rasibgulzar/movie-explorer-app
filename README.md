@@ -12,7 +12,7 @@ A mobile application for browsing movies with authentication, local storage, and
 - Responsive design
 
 ## Installation
-1. Clone repository: `git clone https://github.com/yourusername/movie-explorer-app.git`
+1. Clone repository: `git clone https://github.com/Rasibgulzar/movie-explorer-app.git`
 2. Install dependencies: `npm install`
 3. Run app: `npm start`
 
